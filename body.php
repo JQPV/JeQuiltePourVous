@@ -1,11 +1,4 @@
 <?php
-if ($_GET['q']='a')
-{
-	include "acceuil.php";
-}
-
-
-
 switch ($_GET['q']) {
     case "cl":
         include "library.php";
@@ -23,7 +16,7 @@ switch ($_GET['q']) {
         include "contact.php";
         break;
 	default :
-		include "acceuilphp";
+		include "acceuil.php";
 		break;
 		
 	}
