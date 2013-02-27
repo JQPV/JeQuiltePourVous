@@ -3,22 +3,22 @@
 			<a href="index.html" class="logo"><img src="images/logo.png" alt=""></a>
 			<ul>
 				<li class="selected">
-					<a href="index.html">home</a>
+					<a href="index.php?q=a">home</a>
 				</li>
 				<li>
-					<a href="library.html">color library</a>
+					<a href="index.php?q=cl">color library</a>
 				</li>
 				<li>
-					<a href="gallery.html">gallery</a>
+					<a href="index.php?q=g">gallery</a>
 				</li>
 				<li>
-					<a href="blog.html">blog</a>
+					<a href="index.php?q=b">blog</a>
 				</li>
 				<li>
-					<a href="about.html">about us</a>
+					<a href="index.php?q=au">about us</a>
 				</li>
 				<li>
-					<a href="contact.html">contact us</a>
+					<a href="index.php?q=cu">contact us</a>
 				</li>
 			</ul>
 		</div>
